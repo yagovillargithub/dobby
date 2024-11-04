@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XqCQ7U3Y+GY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\Dobby.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YagoVillarGurruchaga\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512",
+    "C:\\Users\\YagoVillarGurruchaga\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\YagoVillarGurruchaga\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
