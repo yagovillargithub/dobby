@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dobby
-build_property.ProjectDir = C:\Users\YagoVillarGurruchaga\source\repos\Dobby\Dobby\
+build_property.ProjectDir = C:\github\dobby\Dobby\Dobby\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

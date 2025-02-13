@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\",
+  "WorkspaceRootPath": "C:\\github\\dobby\\Dobby\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|c:\\users\\yagovillargurruchaga\\source\\repos\\dobby\\dobby\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|c:\\github\\dobby\\dobby\\dobby\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|solutionrelative:dobby\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|c:\\users\\yagovillargurruchaga\\source\\repos\\dobby\\dobby\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|C:\\github\\dobby\\Dobby\\dobby\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|solutionrelative:dobby\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|c:\\github\\dobby\\dobby\\dobby\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|solutionrelative:dobby\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|c:\\users\\yagovillargurruchaga\\source\\repos\\dobby\\dobby\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|C:\\github\\dobby\\Dobby\\dobby\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|solutionrelative:dobby\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|c:\\users\\yagovillargurruchaga\\source\\repos\\dobby\\dobby\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1AD4604C-6485-41F6-A891-FB38A15947D4}|Dobby\\Dobby.csproj|solutionrelative:dobby\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OverlayForm.cs",
-              "DocumentMoniker": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\OverlayForm.cs",
+              "DocumentMoniker": "C:\\github\\dobby\\Dobby\\Dobby\\OverlayForm.cs",
               "RelativeDocumentMoniker": "Dobby\\OverlayForm.cs",
-              "ToolTip": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\OverlayForm.cs",
+              "ToolTip": "C:\\github\\dobby\\Dobby\\Dobby\\OverlayForm.cs",
               "RelativeToolTip": "Dobby\\OverlayForm.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAqwEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T09:40:58.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OverlayForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\OverlayForm.cs",
+              "DocumentMoniker": "C:\\github\\dobby\\Dobby\\Dobby\\OverlayForm.cs",
               "RelativeDocumentMoniker": "Dobby\\OverlayForm.cs",
               "ToolTip": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\OverlayForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Dobby\\OverlayForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\OverlayForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T09:40:48.641Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-04T09:40:48.641Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\Form1.cs",
+              "DocumentMoniker": "C:\\github\\dobby\\Dobby\\Dobby\\Form1.cs",
               "RelativeDocumentMoniker": "Dobby\\Form1.cs",
-              "ToolTip": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\Form1.cs",
+              "ToolTip": "C:\\github\\dobby\\Dobby\\Dobby\\Form1.cs",
               "RelativeToolTip": "Dobby\\Form1.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAkwGYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAtwFoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T09:39:22.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\Form1.cs",
+              "DocumentMoniker": "C:\\github\\dobby\\Dobby\\Dobby\\Form1.cs",
               "RelativeDocumentMoniker": "Dobby\\Form1.cs",
               "ToolTip": "C:\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Dobby\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\YagoVillarGurruchaga\\source\\repos\\Dobby\\Dobby\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T09:34:21.539Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-04T09:34:21.539Z"
             }
           ]
         }
